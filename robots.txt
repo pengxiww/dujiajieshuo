@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://pengxiww.github.io/dujiajieshuo/sitemap.xml
